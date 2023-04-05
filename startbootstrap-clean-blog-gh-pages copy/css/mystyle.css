@@ -1,0 +1,29 @@
+body {
+   color: darkslateblue; 
+   font-family: Arial, Helvetica, sans-serif;
+}
+.scratchbg {
+   background-image: url(../images/abstract-smooth-empty-grey-studio-well-use-as-background-business-report-digital-website-template-backdrop_1258-55967.avif);
+}
+
+.bold {
+   font-weight: bold;
+}
+
+.italic {
+   color: darkmagenta;
+   font-style: italic;
+}
+
+.border {
+   border-width: 1px;
+   border-style: solid;
+}
+
+.fontsize {
+ font-size: large;
+}
+
+.title {
+   font-size: xx-large;
+}
